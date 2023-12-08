@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quim Romero</h1>
 <h3 align="center">Passionate Full-Stack Software Engineer | Mobile App Developer</h3>
 
-<h3 align="left">Connect with me:</h3><p align="left"><a href="https://linkedin.com/in/quimromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quimromero" height="30" width="40" /></a></p>
+<h3 align="left" style="display:inline;">Connect with me:</h3>
+<a href="https://linkedin.com/in/quimromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quimromero" height="30" width="40" style="display:inline;"/></a>
 
 👨‍💻 As a dedicated student approaching the end of my Mobile Application Development studies, I've mastered mobile and web development. My academic journey features diverse projects, refining programming skills and interface design expertise.
 
