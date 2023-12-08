@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quim Romero</h1>
-<h3 align="center">Aspiring Full-Stack Software Engineer | Mobile App Developer</h3>
+<h3 align="center">Passionate Full-Stack Software Engineer | Mobile App Developer</h3>
 
 👨‍💻 As a dedicated student approaching the end of my Mobile Application Development studies, I've mastered mobile and web development. My academic journey features diverse projects, refining programming skills and interface design expertise.
 
