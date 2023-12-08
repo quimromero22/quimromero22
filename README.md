@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Quim Romero</h1>
-<h3 align="center">A Passionate Full Stack Developer Student from Spain</h3>
+<h3 align="center">Aspiring Full-Stack Software Engineer | Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **honing my skills in both mobile and web development.**
+👨‍💻 As a dedicated student approaching the end of my Mobile Application Development studies, I've mastered mobile and web development. My academic journey features diverse projects, refining programming skills and interface design expertise.
 
-- 🌱 I’m currently learning **the ins and outs of full stack development, exploring new technologies, and staying updated with industry trends.**
+🚀 Transitioning to a full-stack software engineer, I'm eager to apply creativity and innovation to impactful projects.
 
-- 👯 I’m looking to collaborate on **projects that challenge and expand my knowledge.**
+📱 Proficient in mobile development, excelling in Android (Java, Kotlin) and iOS (Swift, Objective-C). Deep understanding of platform-specific requirements ensures top-notch mobile applications.
 
-- 🤝 I’m looking for help with **gaining real-world experience and mentorship.**
+🌐 Actively involved in web development with strong HTML, CSS, and JavaScript skills. Progressing towards becoming a versatile full-stack developer, adept in Angular, SQL, Node, and Python.
 
-- 👨‍💻 All of my projects are available at [https://github.com/quimromero2](https://github.com/quimromero2)
+💼 Open to job opportunities, professional connections, and learning from mentors. Excited to contribute to full-stack development—let's connect!
 
-- 💬 Ask me about **my journey into the world of coding, my current projects, or anything related to full stack development.**
-
-- 📫 How to reach me **quimromero22@gmail.com**
+📫 Reach me at quimromero22@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
